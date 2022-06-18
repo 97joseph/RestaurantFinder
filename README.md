@@ -2,9 +2,12 @@
  Geo based location tagging
  
  App Design and Implementation
+ 
 ![WhatsApp Image 2022-06-18 at 6 27 54 PM](https://user-images.githubusercontent.com/33089347/174445436-e1a030c8-4d1d-4195-8bfb-61c1281ef351.jpeg)
 
+
 Part 3 Add restaurants to favorite 
+
 The user is able to click on any of the restaurant and add it to favorite. When the user clicks on the 
 restaurant item, a notification alert should pop up to ask whether to add the selected item to favorite 
 (See below). When the user selects yes on the alert dialog, the item is added to favorites. You must use 
